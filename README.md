@@ -1,8 +1,8 @@
-### Hi there 👋
+### Всем привет 👋
 
 <!--
 **rebusok/rebusok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://raw.githubusercontent.com/rebusok/rebusok/main/github-user-contribution.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
